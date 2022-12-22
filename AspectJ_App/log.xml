@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-09T16:52:38.097490800Z</date>
+  <millis>1670604758097</millis>
+  <nanos>490800</nanos>
+  <sequence>0</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>avant</method>
+  <thread>1</thread>
+  <message>Avant l'execution de la methodevoid metier.IMetierBanqueImpl.addCompte(Compte)</message>
+</record>
+<record>
+  <date>2022-12-09T16:52:38.111480100Z</date>
+  <millis>1670604758111</millis>
+  <nanos>480100</nanos>
+  <sequence>1</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>apres</method>
+  <thread>1</thread>
+  <message>Apres l'execution de la methodevoid metier.IMetierBanqueImpl.addCompte(Compte)</message>
+</record>
+<record>
+  <date>2022-12-09T16:52:38.112485400Z</date>
+  <millis>1670604758112</millis>
+  <nanos>485400</nanos>
+  <sequence>2</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>apres</method>
+  <thread>1</thread>
+  <message>Durée de l'execution de la méthode est 19</message>
+</record>
+<record>
+  <date>2022-12-09T16:52:41.810549700Z</date>
+  <millis>1670604761810</millis>
+  <nanos>549700</nanos>
+  <sequence>3</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>avant</method>
+  <thread>1</thread>
+  <message>Avant l'execution de la methodeCompte metier.IMetierBanqueImpl.consulter(Long)</message>
+</record>
+<record>
+  <date>2022-12-09T16:52:41.811549600Z</date>
+  <millis>1670604761811</millis>
+  <nanos>549600</nanos>
+  <sequence>4</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>apres</method>
+  <thread>1</thread>
+  <message>Apres l'execution de la methodeCompte metier.IMetierBanqueImpl.consulter(Long)</message>
+</record>
+<record>
+  <date>2022-12-09T16:52:41.812557200Z</date>
+  <millis>1670604761812</millis>
+  <nanos>557200</nanos>
+  <sequence>5</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>apres</method>
+  <thread>1</thread>
+  <message>Durée de l'execution de la méthode est 1</message>
+</record>
+<record>
+  <date>2022-12-09T16:52:41.812557200Z</date>
+  <millis>1670604761812</millis>
+  <nanos>557200</nanos>
+  <sequence>6</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>avant</method>
+  <thread>1</thread>
+  <message>Avant l'execution de la methodevoid metier.IMetierBanqueImpl.retirer(Long, double)</message>
+</record>
+<record>
+  <date>2022-12-09T16:52:41.813556900Z</date>
+  <millis>1670604761813</millis>
+  <nanos>556900</nanos>
+  <sequence>7</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>apres</method>
+  <thread>1</thread>
+  <message>Apres l'execution de la methodevoid metier.IMetierBanqueImpl.retirer(Long, double)</message>
+</record>
+<record>
+  <date>2022-12-09T16:52:41.813556900Z</date>
+  <millis>1670604761813</millis>
+  <nanos>556900</nanos>
+  <sequence>8</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>apres</method>
+  <thread>1</thread>
+  <message>Durée de l'execution de la méthode est 1</message>
+</record>
+<record>
+  <date>2022-12-09T16:52:41.814556100Z</date>
+  <millis>1670604761814</millis>
+  <nanos>556100</nanos>
+  <sequence>9</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>avant</method>
+  <thread>1</thread>
+  <message>Avant l'execution de la methodeCompte metier.IMetierBanqueImpl.consulter(Long)</message>
+</record>
+<record>
+  <date>2022-12-09T16:52:41.814556100Z</date>
+  <millis>1670604761814</millis>
+  <nanos>556100</nanos>
+  <sequence>10</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>apres</method>
+  <thread>1</thread>
+  <message>Apres l'execution de la methodeCompte metier.IMetierBanqueImpl.consulter(Long)</message>
+</record>
+<record>
+  <date>2022-12-09T16:52:41.815555800Z</date>
+  <millis>1670604761815</millis>
+  <nanos>555800</nanos>
+  <sequence>11</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>apres</method>
+  <thread>1</thread>
+  <message>Durée de l'execution de la méthode est 0</message>
+</record>
+</log>
